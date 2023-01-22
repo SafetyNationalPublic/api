@@ -1,4 +1,4 @@
-<img src="assets/images/apim-logo-transparent.png">
+<img src="https://github.com/SafetyNationalPublic/apis.wiki/docs/SN_2018_Logo.svg">
 
 # Our Mission
 SafetyNational Documentation for our public facing apis
