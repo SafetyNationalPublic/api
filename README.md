@@ -2,8 +2,7 @@
 <img src="https://github.com/SafetyNationalPublic/apis/wiki/docs/SN_2018_Logo.svg" width="100" height="100" align="center">
 
 # How to get started
-SafetyNational strives to provide the best support and experience for the customers of our apis.  Our development portal can be found at the following link and allows our customers to get initial a request to get registered and begin utilizing our apis. Once you request an invitation to be registered, our support team will review all information and grant you access to the portal where you can begin exploring and trying our apis.  
-<a href="https://api-sandbox-cus.developer.azure-api.net/">Developer Portal</a>
+SafetyNational strives to provide the best support and experience for the customers of our apis.  Our development portal can be found at the following link and allows our customers to get initial a request to get registered and begin utilizing our apis. Once you request an invitation to be registered, our support team will review all information and grant you access to the portal where you can begin exploring and trying our apis.  <a href="https://api-sandbox-cus.developer.azure-api.net/">Developer Portal</a>
 
 #  FAQ's
 1. How are the apis packaged into products?
