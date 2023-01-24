@@ -1,5 +1,5 @@
 
-<img src="https://github.com/SafetyNationalPublic/apis/wiki/docs/SN_2018_Logo.svg" width="250" height="250">
+<img src="https://github.com/SafetyNationalPublic/apis/wiki/docs/SN_2018_Logo.svg" width="150" height="150">
 
 # Our Mission
 SafetyNational strives to provide the best support and experience for the customers of our apis.  Our development portal can be found at the following link and allows our customers to get registered and begin utilizing our apis. 
