@@ -1,5 +1,5 @@
 
-<table><tr><td><img src="https://github.com/SafetyNationalPublic/apis/wiki/docs/SN_2018_Logo.svg" width="100" height="100" align="center"></td></tr><tr><td> <a href="https://api-sandbox-cus.developer.azure-api.net/">Developer Portal</a></td></tr></table>
+<table><tr><td><img src="https://github.com/SafetyNationalPublic/apis/wiki/docs/SN_2018_Logo.svg" width="100" height="100" align="center"></td><td align="right"><a href="https://api-sandbox-cus.developer.azure-api.net/">Developer Portal</a></td></tr></table>
 
 # How to get started 
 SafetyNational strives to provide the best support and experience for the customers of our apis.  Our development portal can be found by following link above and allows our customers to get initial a request to get registered and begin utilizing our apis. Once you request an invitation to be registered, our support team will review all information and grant you access to the portal where you can begin exploring and trying our apis.  
