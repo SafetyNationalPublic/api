@@ -1,7 +1,7 @@
 
 # How to get started 
 SafetyNational strives to provide the best support and experience for the customers of our apis.  Our development portal can be found by the following link and allows our customers to make the initial request to get registered. Once you request an invitation to be registered, our support team will review all information and grant you access to the portal where you can begin exploring and trying our apis. 
-<a href="https://api-sandbox-cus.developer.azure-api.net/">Developer Portal</a>  
+<br><a href="https://api-sandbox-cus.developer.azure-api.net/">Developer Portal</a>  
 
 #  FAQ's
 1. How are the apis packaged into products?
