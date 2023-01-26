@@ -1,6 +1,6 @@
 
 # How to get started 
-SafetyNational strives to provide the best support and experience for the customers of our apis.  You can review our detailed api documentation in our wiki at, https://github.com/SafetyNationalPublic/apis/wiki
+SafetyNational strives to provide the best support and experience for the customers of our apis.  You can review our detailed api documentation in our <a href="https://github.com/SafetyNationalPublic/apis/wiki">wiki</a> 
 
 Our development portal can be found by the following link and allows our customers to make the initial request to get registered. Once you request an invitation to be registered, our support team will review all information and grant you access to the portal where you can begin exploring and trying our apis. 
 <a href="https://api-sandbox-cus.developer.azure-api.net/">Developer Portal</a>  
