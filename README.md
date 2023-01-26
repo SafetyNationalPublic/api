@@ -5,7 +5,7 @@ SafetyNational strives to provide the best support and experience for the custom
 Our development portal can be found by the following link and allows our customers to make the initial request to get registered. Once you request an invitation to be registered, our support team will review all information and grant you access to the portal where you can begin exploring and trying our apis. 
 <a href="https://api-sandbox-cus.developer.azure-api.net/">Developer Portal</a>  
 
-#  FAQ's - https://api-sandbox-cus.developer.azure-api.net/faqs#hzECc
+#  <a href="https://api-sandbox-cus.developer.azure-api.net/faqs#hzECc">FAQ's</a> 
 1. How are the apis packaged into products?
    - We have several product offerings which help you work through the lifecycle of exploration, development, testing and production use. 
    - Starter: Intended for exploration and use in the portal to get started. Limited to 50 calls per day.
